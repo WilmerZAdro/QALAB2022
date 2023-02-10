@@ -10,7 +10,11 @@ public class Main {
         Toyota toyo2 = new Toyota("ASP120");
         toyo2.setdVelocidadMaxima(300);
         System.out.println("Velocidad Máxima: " + toyo2.getdVelocidadMaxima());
+<<<<<<< HEAD
         //EDITADO POR WILMER ZADRO
+=======
+
+>>>>>>> dev2
 
         System.out.println("========================================== ");
 
